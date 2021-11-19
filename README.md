@@ -4,7 +4,7 @@
 
 In this thesis we explore the problem of automatic music transcription using deep neural networks, more specific convolutional neural networks. Automatic music transcription is a task of writing the sheet music from musical recordings. We analysed previous studies and found that there was a lack of research about the size and the shape of architecture of deep models. We explored the performance of four different architectures of convolutional neural networks on the piano recordings dataset MAPS, which is a common benchmark for learning automatic music transcription. We also compared two different normalization techniques for spectrograms: standardization and the logarithmic compression. We found out that the performance of transcription is highly correlated with the higher number of convolutional layers. Transcription is also 10% more successful with logarithmic compression instead of standardization.
 
-The thesis is in file [Avtomatska transkripcija klavirske glasbe s konvolucijskimi nevronskimi mrežami](Avtomatska transkripcija klavirske glasbe s konvolucijskimi nevronskimi mrežami.pdf). The presentation for the thesis defense is in file [zagovor](zagovor.pptx).
+The thesis is in file [Avtomatska transkripcija klavirske glasbe s konvolucijskimi nevronskimi mrežami](Avtomatska%20transkripcija%20klavirske%20glasbe%20s%20konvolucijskimi%20nevronskimi%20mrežami.pdf). The presentation for the thesis defense is in file [zagovor](zagovor.pptx).
 
 ## About this repository
 

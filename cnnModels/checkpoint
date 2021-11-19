@@ -1,0 +1,2 @@
+model_checkpoint_path: "5_conv16_24_3mp2_1flat_den88"
+all_model_checkpoint_paths: "5_conv16_24_3mp2_1flat_den88"
