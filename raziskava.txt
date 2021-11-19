@@ -1,0 +1,58 @@
+Tzenatakis, Music Analysis and Retrieval Systems for Audio Signals: https://sci-hub.se/10.1002/asi.20060
+
+MIREX: https://www.music-ir.org/mirex/wiki/2020:Main_Page
+
+ISMIR: https://www.ismir.net/
+
+Song segmentation:
+http://cs231n.stanford.edu/reports/2016/pdfs/220_Report.pdf
+
+Melody extraction:
+https://www.music-ir.org/mirex/abstracts/2020/AH1.pdf
+
+
+
+
+Melody transcription:
+https://www.ee.columbia.edu/~dpwe/pubs/ismir05-melody.pdf
+http://cs229.stanford.edu/proj2017/final-reports/5242716.pdf
+https://magenta.tensorflow.org/onsets-frames
+https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/8461686
+
+https://www.music-ir.org/mirex/wiki/2010:Multiple_Fundamental_Frequency_Estimation_%26_Tracking_Results
+
+https://www.researchgate.net/publication/224245803_Polyphonic_music_transcription_using_note_onset_and_offset_detection
+
+https://repositories.lib.utexas.edu/bitstream/handle/2152/75477/leemina_Thesis_Monophonic_AMT_with_CNNs_2019.pdf?sequence=1&isAllowed=y
+
+https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=11303&context=theses
+
+https://github.com/magenta/magenta/tree/master/magenta/models/onsets_frames_transcription
+
+
+http://eprints.fri.uni-lj.si/3044/1/63110241-JAN_JUG-Transkripcija_klavirske_glasbe_z_globokim_u%C4%8Denjem.pdf
+
+
+https://arxiv.org/pdf/1710.11153.pdf
+https://arxiv.org/pdf/1508.01774.pdf
+https://www.music-ir.org/mirex/abstracts/2017/CT1.pdf
+https://magenta.tensorflow.org/research
+
+Klapuri (ismir, 2004) -> začetnik
+
+https://program.ismir2020.net/papers.html?filter=keywords&search=Music+transcription+and+annotation
+
+https://www.music-ir.org/mirex/wiki/2020:Singing_Transcription_from_Polyphonic_Music
+
+ConstantQ: https://core.ac.uk/download/pdf/144846462.pdf
+
+
+Datasets:
+-> C. Hawthorne, A. Stasyuk, A. Roberts, I. Simon,
+C. Huang, S. Dieleman, E. Elsen, J. Engel, and D. Eck,
+“Enabling factorized piano music modeling and generation with the MAESTRO dataset,” in Proc. of the 7th
+International Conference on Learning Representations
+(ICLR), 2019.
+-> MAPS
+-> https://program.ismir2020.net/poster_4-09.html
+

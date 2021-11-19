@@ -1,0 +1,26 @@
+MAPS*
+conda*
+
+.vscode/*
+.ipynb_checkpoints/*
+*/__pycache__
+__pycache__/*
+
+server.bat
+copy*.sh
+
+# linux
+.Xdefaults*
+.bash_history*
+.bash_logout*
+.bashrc*
+.cache/*
+.conda/*
+.config/*
+.containers/*
+.dockbarx/*
+.kde/*
+.keras/*
+.profile*
+.python_history*
+.ssh/*

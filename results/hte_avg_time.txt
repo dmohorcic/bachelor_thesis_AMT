@@ -1,0 +1,29 @@
+Log
+A1: 110.71 s/prehod, 28.8 prehodov, 3188.58 s
+A2: 115.14 s/prehod, 26.8 prehodov, 3085.66 s
+A3: 123.83 s/prehod, 29.8 prehodov, 3689.77 s
+B1: 133.30 s/prehod, 24.4 prehodov, 3252.57 s
+B2: 136.51 s/prehod, 26.8 prehodov, 3658.55 s
+B3: 181.23 s/prehod, 25.2 prehodov, 4567.09 s
+C1: 124.64 s/prehod, 30.4 prehodov, 3789.17 s
+C2: 143.73 s/prehod, 28.0 prehodov, 4024.56 s
+C3: 163.16 s/prehod, 29.4 prehodov, 4796.94 s
+C4: 170.04 s/prehod, 25.2 prehodov, 4285.02 s
+D1: 161.87 s/prehod, 31.0 prehodov, 5018.12 s
+D2: 200.54 s/prehod, 27.8 prehodov, 5575.09 s
+D3: 264.48 s/prehod, 23.8 prehodov, 6294.71 s
+
+Standard
+A1: 111.50 s/prehod, 27.6 prehodov, 3077.34 s
+A2: 127.19 s/prehod, 35.2 prehodov, 4477.15 s
+A3: 127.75 s/prehod, 34.0 prehodov, 4343.66 s
+B1: 136.31 s/prehod, 28.2 prehodov, 3843.93 s
+B2: 136.20 s/prehod, 31.6 prehodov, 4303.91 s
+B3: 190.40 s/prehod, 32.2 prehodov, 6130.81 s
+C1: 127.66 s/prehod, 26.8 prehodov, 3421.16 s
+C2: 136.22 s/prehod, 27.0 prehodov, 3677.93 s
+C3: 152.08 s/prehod, 25.6 prehodov, 3893.23 s
+C4: 159.85 s/prehod, 23.6 prehodov, 3772.48 s
+D1: 166.37 s/prehod, 24.2 prehodov, 4026.27 s
+D2: 189.94 s/prehod, 28.6 prehodov, 5432.20 s
+D3: 250.31 s/prehod, 27.4 prehodov, 6858.41 s
